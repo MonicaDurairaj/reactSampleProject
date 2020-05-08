@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/MonicaDurairaj/reactSampleProject/static/css/main.9b1da959.chunk.css",
+    "main.js": "/MonicaDurairaj/reactSampleProject/static/js/main.16a705bc.chunk.js",
+    "main.js.map": "/MonicaDurairaj/reactSampleProject/static/js/main.16a705bc.chunk.js.map",
+    "runtime-main.js": "/MonicaDurairaj/reactSampleProject/static/js/runtime-main.88b110d6.js",
+    "runtime-main.js.map": "/MonicaDurairaj/reactSampleProject/static/js/runtime-main.88b110d6.js.map",
+    "static/js/2.9f7ec2f3.chunk.js": "/MonicaDurairaj/reactSampleProject/static/js/2.9f7ec2f3.chunk.js",
+    "static/js/2.9f7ec2f3.chunk.js.map": "/MonicaDurairaj/reactSampleProject/static/js/2.9f7ec2f3.chunk.js.map",
+    "index.html": "/MonicaDurairaj/reactSampleProject/index.html",
+    "precache-manifest.89b12ba76ad1af273ecdecbc6d517094.js": "/MonicaDurairaj/reactSampleProject/precache-manifest.89b12ba76ad1af273ecdecbc6d517094.js",
+    "service-worker.js": "/MonicaDurairaj/reactSampleProject/service-worker.js",
+    "static/css/main.9b1da959.chunk.css.map": "/MonicaDurairaj/reactSampleProject/static/css/main.9b1da959.chunk.css.map",
+    "static/js/2.9f7ec2f3.chunk.js.LICENSE.txt": "/MonicaDurairaj/reactSampleProject/static/js/2.9f7ec2f3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.88b110d6.js",
+    "static/js/2.9f7ec2f3.chunk.js",
+    "static/css/main.9b1da959.chunk.css",
+    "static/js/main.16a705bc.chunk.js"
+  ]
+}
